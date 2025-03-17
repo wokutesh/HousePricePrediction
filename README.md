@@ -18,5 +18,8 @@
 | TotalBsmtSF        | Total square feet of basement area |
 | SalePrice          | To be predicted
 
-## Figure of Actual data 
-![Alt text](actual_data.png)
+## Figure of Actual Data 
+![Alt text](actual_data.PNG)
+
+## Figure Actual Data vs Predicted Data
+
