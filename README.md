@@ -22,4 +22,4 @@
 ![Alt text](actual_data.PNG)
 
 ## Figure Actual Data vs Predicted Data
-
+![Alt text](predicted.PNG)
